@@ -137,6 +137,12 @@ class Plato(Connection):
         return plato
 
 
+
+        #TODO ACTUALIZACION DE PLATO
+
+        #TODO ELIMINACION DE PLATO
+
+
         
         
 
