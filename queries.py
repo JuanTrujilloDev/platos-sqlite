@@ -5,7 +5,7 @@ class Connection():
 
     def __init__(self):
 
-        self.connect = sqlite3.connect('personas.db')
+        self.connect = sqlite3.connect('platos.db')
 
     
     def cursor(self):

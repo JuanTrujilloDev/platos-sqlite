@@ -3,6 +3,6 @@ from Plato import Plato
 
 con = Plato()
 
-platos = con.createPlato()
+platos = con.deletePlato()
 
-print(platos.rowcount())
+print(platos)
